@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+node_modules
+build
+.DS_Store
+.env*
+# capturas originales (las versiones optimizadas están en src/assets)
+/capturas
